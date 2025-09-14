@@ -239,7 +239,7 @@ After you have installed all the dependencies, you must create and fill a `.env
 1. First, copy our example by running the following:
 
 ```bash
-# The file must be at your repository's root!
+# The file must be at the root of your repository!
 cp .env.example .env 
 ```
 
