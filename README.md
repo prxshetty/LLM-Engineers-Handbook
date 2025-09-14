@@ -239,7 +239,8 @@ After you have installed all the dependencies, you must create and fill a `.env
 1. First, copy our example by running the following:
 
 ```bash
-cp .env.example .env # The file must be at your repository's root!
+# The file must be at your repository's root!
+cp .env.example .env 
 ```
 
 2. Now, let's understand how to fill in all the essential variables within the `.env` file to get you started. The following are the mandatory settings we must complete when working locally:
